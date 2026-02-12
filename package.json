@@ -1,0 +1,29 @@
+{
+  "name": "loop-qa-automation-professional",
+  "version": "1.0.0",
+  "description": "Loop QA Automation - Senior-Level Data-Driven Test Suite",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "test:debug": "playwright test --debug",
+    "test:chrome": "playwright test --project=chromium",
+    "test:report": "playwright show-report",
+    "test:single": "playwright test --grep",
+    "test:parallel": "playwright test --workers=4"
+  },
+  "keywords": [
+    "playwright",
+    "automation",
+    "testing",
+    "data-driven",
+    "page-object-model",
+    "qa-automation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.40.0"
+  }
+}

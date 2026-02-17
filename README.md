@@ -1,3 +1,5 @@
+[![Playwright Tests](https://github.com/travisslayton/Loop-Tech-Eval/actions/workflows/playwright.yml/badge.svg)](https://github.com/travisslayton/Loop-Tech-Eval/actions)
+
 # Loop QA Automation - Senior-Level Solution
 
 ## 🎯 Overview

@@ -1,4 +1,4 @@
-// @ts-check
+// @js-check
 const { defineConfig, devices } = require('@playwright/test');
 
 /**

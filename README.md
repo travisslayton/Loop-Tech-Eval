@@ -24,7 +24,7 @@ Designed for maintainability, clarity, and long-term scalability.
 - Uses **CI-only retries (2)** to reduce flaky failures
 - Retains **trace + video on failure** for debugging
 - Uploads **Playwright HTML report** as artifact
-- Average runtime: ~3 minutes
+- Average runtime: ~1 minute
 
 > Download report: **Actions → Latest Run → Artifacts → playwright-report**
 
